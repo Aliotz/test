@@ -1,5 +1,5 @@
 
-'''creted by SeyedAli-HosseinZade and sajjed Dalili'''
+'''creted by our'''
 
 def pascal(n):
     t = [1]
